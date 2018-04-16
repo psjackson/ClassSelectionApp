@@ -10,7 +10,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static com.example.pjackson.classselectionapp.R.id.errMessageLogin;
 
 public class MainActivity extends AppCompatActivity {
     public enum LoginSuccess{
