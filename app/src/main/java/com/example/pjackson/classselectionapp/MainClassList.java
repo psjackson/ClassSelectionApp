@@ -43,10 +43,10 @@ public class MainClassList extends AppCompatActivity {
                     spnCertificate.setVisibility(View.GONE);
                     txtCertificate.setVisibility(View.GONE);
                 } else {
+                    spnDegree.setVisibility(View.GONE);
+                    txtDegree.setVisibility(View.GONE);
                     spnCertificate.setVisibility(View.VISIBLE);
                     txtCertificate.setVisibility(View.VISIBLE);
-                    spnCertificate.setVisibility(View.GONE);
-                    txtCertificate.setVisibility(View.GONE);
                 }
             }
         });
