@@ -40,5 +40,4 @@
     </string-array>
     <string name="errMessageLogin">Invalid Login. Please retry.</string>
     <string name="errMessagePassword">Invalid Password. Please retry.</string>
-    <item name="errMessageLogin" type="id" />
 </resources>
